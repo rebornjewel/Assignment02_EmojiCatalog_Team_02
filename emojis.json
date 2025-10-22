@@ -1,5 +1,5 @@
 [
-  {"id":1,"name":"Grinning Face","category":"Smileys & Emotion","unicode":"😀","description":"A typical happy face."},
+  {"id":1,"name":"Grinning Face","category":"Smileys & Emotion","unicode":"26F9-FE0F-200D-2640-FE0F","description":"A typical happy face."},
   {"id":2,"name":"Beaming Face with Smiling Eyes","category":"Smileys & Emotion","unicode":"😁","description":"Very pleased, big smile."},
   {"id":3,"name":"Face with Tears of Joy","category":"Smileys & Emotion","unicode":"😂","description":"Used for something extremely funny."},
   {"id":4,"name":"Red Heart","category":"Symbols","unicode":"❤️","description":"Classic love symbol."},
@@ -24,4 +24,5 @@
   {"id":23,"name":"Globe","category":"Travel & Places","unicode":"🌍","description":"Earth or global topics."},
   {"id":24,"name":"Rain Cloud","category":"Animals & Nature","unicode":"🌧️","description":"Bad weather or rain."},
   {"id":25,"name":"Light Bulb","category":"Objects","unicode":"💡","description":"Idea or inspiration."}
+
 ]

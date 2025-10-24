@@ -5,175 +5,176 @@
       "name": "Girl Basketball Player",
       "category": "Sports",
       "unicode": "26F9-FE0F-200D-2640-FE0F",
-      "description": "Woman Basketball Player Emoji."
+      "description": "Woman Basketball Player"
     },
     {
       "id": 2,
       "name": "Camel",
       "category": "Animals",
       "unicode": "1F42B",
-      "description": "A Camel in his natural habitat."
+      "description": "Camel"
     },
     {
       "id": 3,
       "name": "Platteville Pickaxe",
       "category": "Objects",
       "unicode": "26CF",
-      "description": "Platteville Pete's Special First Pickaxe."
+      "description": "Pioneer Pete's Pickaxe"
     },
     {
       "id": 4,
       "name": "Panda Bear",
       "category": "Animals",
       "unicode": "1F43C",
-      "description": "Cute panda bear with a big smile."
+      "description": "Panda Bear"
     },
     {
       "id": 5,
       "name": "Duck",
       "category": "Animals",
       "unicode": "1F986",
-      "description": "Cute duck waddling over to the lemonade stand for grapes."
+      "description": "Yellow Duck"
     },
     {
       "id": 6,
       "name": "Yawn",
       "category": "State of mind",
       "unicode": "1F971",
-      "description": "Me when I'm about to go to bed."
+      "description": "Yawning Emoji"
     },
     {
       "id": 7,
       "name": "Hammer",
       "category": "Objects",
       "unicode": "1F528",
-      "description": "Hammer for hammering."
+      "description": "Hammer"
     },
     {
       "id": 8,
-      "name": "Lawn Mower",
+      "name": "Sewing Needle",
       "category": "Objects",
-      "unicode": "E343",
-      "description": "Lawn mower that is very high quality."
+      "unicode": "1FAA1",
+      "description": "Sewing Needle"
     },
     {
       "id": 9,
       "name": "Ox",
       "category": "Animals",
       "unicode": "1F402",
-      "description": "Animal used for Oregon Trail."
+      "description": "Ox"
     },
     {
       "id": 10,
       "name": "Dinosaur",
       "category": "Animals",
       "unicode": "1F996",
-      "description": "Ancient animal that is extinct."
+      "description": "Dinosaur"
     },
     {
       "id": 11,
       "name": "Monocle",
       "category": "State of mind",
       "unicode": "1F9D0",
-      "description": "Curious george."
+      "description": "Monocle Emoji"
     },
     {
       "id": 12,
       "name": "Person Kneeling",
       "category": "State of mind",
       "unicode": "1F9CE",
-      "description": "Praying to the lord."
+      "description": "Person Kneeling"
     },
     {
       "id": 13,
       "name": "Shovel",
       "category": "Objects",
       "unicode": "1FA8F",
-      "description": "The golden gray shovel."
+      "description": "Grey Shovel"
     },
     {
       "id": 14,
-      "name": "**** You",
+      "name": "Angry Emoji",
       "category": "State of mind",
       "unicode": "1F92C",
-      "description": "When Colton sees Ryan."
+      "description": "Angry Emoji"
     },
     {
       "id": 15,
       "name": "Pregnant Man",
       "category": "State of mind",
       "unicode": "1FAC3",
-      "description": "New beginnings."
+      "description": "Prenant Man"
     },
     {
       "id": 16,
       "name": "Rainbow Flag",
       "category": "Objects",
       "unicode": "1F3F3-FE0F-200D-1F308",
-      "description": "A random flag."
+      "description": "Rainbow Flag"
     },
     {
       "id": 17,
       "name": "Person Playing Handball",
       "category": "Sports",
       "unicode": "1F93E",
-      "description": "Someone playing handball."
+      "description": "Person Playing Handball"
     },
     {
       "id": 18,
       "name": "Parrot",
       "category": "Animals",
       "unicode": "1F99C",
-      "description": "Parrot from minecraft."
+      "description": "Parrot"
     },
     {
       "id": 19,
       "name": "Honeybadger",
       "category": "Animals",
       "unicode": "1F9A1",
-      "description": "Descrimination against honeybadgers."
+      "description": "Honeybadger"
     },
     {
       "id": 20,
-      "name": "Shocked You Would Do That",
+      "name": "Shock Emoji",
       "category": "State of mind",
       "unicode": "1FAE2",
-      "description": "Shocked You Would Do That."
+      "description": "Shock Emoji"
     },
     {
       "id": 21,
-      "name": "Rowing",
+      "name": "Person Rowing",
       "category": "Sports",
       "unicode": "1F6A3-200D-2642-FE0F",
-      "description": "Row row row your boat, gently down the stream."
+      "description": "Person Rowing"
     },
     {
       "id": 22,
-      "name": "Puking",
+      "name": "Puking Emoji",
       "category": "State of mind",
       "unicode": "1F92E",
-      "description": "Ryan after eating Colton's cooking."
+      "description": "Puking Emoji"
     },
     {
       "id": 23,
       "name": "Archery",
       "category": "Sports",
       "unicode": "1F3F9",
-      "description": "Bow and arrow for archery."
+      "description": "Bow and Arrow"
     },
     {
       "id": 24,
       "name": "Man Golfing",
       "category": "Sports",
       "unicode": "1F3CC-FE0F-200D-2642-FE0F",
-      "description": "What Ryan thinks he looks like when golfing."
+      "description": "Man Golfing"
     },
     {
       "id": 25,
       "name": "Otter",
       "category": "Animals",
       "unicode": "1F9A6",
-      "description": "Otters are reptiles."
+      "description": "Otter"
     }
   ]
 }
+
